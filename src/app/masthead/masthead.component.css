@@ -7,12 +7,11 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(255, 255, 255);
+    color: black;
 }
 #greeting h1{
     font-weight: bold;
 }
 #greeting p{
     font-size: 1.30rem;
-    background-color: black;
 }
