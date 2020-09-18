@@ -1,5 +1,6 @@
 #about{
-    display: flex; 
+    display: flex;
+    flex-direction: column; 
     height: 40rem; 
     text-align: center; 
     font-size: 1.5rem;
@@ -8,4 +9,8 @@
 }
 #about p{
     max-width: 40rem;
+}
+#about i {
+    font-size: 100px;
+    padding-bottom: 45px;
 }
