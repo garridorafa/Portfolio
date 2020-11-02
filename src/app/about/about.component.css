@@ -7,10 +7,17 @@
     justify-content: center;
     align-items: center;
 }
-#about p{
+p{
     max-width: 40rem;
 }
-#about i {
+i {
     font-size: 100px;
     padding-bottom: 45px;
 }
+
+@media only screen and (max-width: 600px) {
+    #about{
+        padding: 0 5%;
+        height: 30rem;
+    }
+} 

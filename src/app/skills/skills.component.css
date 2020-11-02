@@ -18,11 +18,11 @@ span {
     background-color: burlywood;
 }
 
-#skills i {
+i {
     font-size: 100px;
 }
 
-#skills .skill {
+.skill {
     display: flex;
     justify-content: space-around;
     padding: 50px 0;
@@ -34,6 +34,19 @@ span {
     max-width: 450px;
 }
 
-#evenSkill {
+.evenSkill {
     flex-direction:row-reverse ;
+}
+
+@media only screen and (max-width: 600px) {
+    h2{
+        font-size: 3rem;
+    }
+    .skill{
+        flex-direction: column;
+        align-items: center;
+    }
+    i{
+        padding-bottom: 20px;
+    }
 }
