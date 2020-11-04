@@ -1,0 +1,14 @@
+warning: LF will be replaced by CRLF in docs/index.html.
+The file will have its original line endings in your working directory
+[1mdiff --git a/docs/index.html b/docs/index.html[m
+[1mindex ab699cc..7ab352f 100644[m
+[1m--- a/docs/index.html[m
+[1m+++ b/docs/index.html[m
+[36m@@ -1,6 +1,6 @@[m
+ <!doctype html>[m
+ <html lang="en">[m
+[31m-  <head><base href="/Portfolio/">[m
+[32m+[m[32m  <head><base href="/">[m
+     <meta charset="utf-8">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">[m
+ [m
