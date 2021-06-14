@@ -2,7 +2,7 @@
 
 First version of my personal portfolio create in angular
 
-[check the demo!](https://garridorafa.github.io/Portfolio/)
+[check the demo!](https://garridorafa.github.io/portfolio/)
 
 # How to use
 
